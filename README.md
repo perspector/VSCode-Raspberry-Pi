@@ -1,6 +1,6 @@
 # VSCode-Raspberry-Pi
 ## Table of Contents
-* [Introduction] (#introduction)
+* [Introduction] ()
 * [Prerequisites] (#prerequisites)
 * [Installation] (#installation)
 * [Credits] (#credits)
