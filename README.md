@@ -1,4 +1,5 @@
 # VSCode-Raspberry-Pi
+![A Python program calculating pi in VS Code (code-oss) on Ubuntu on Raspberry Pi 4](./Screenshot.png)
 ## Table of Contents
 * [Introduction](#introduction)
 * [Prerequisites](#prerequisites)
