@@ -1,9 +1,9 @@
 # VSCode-Raspberry-Pi
 ## Table of Contents
 * [Introduction](#introduction)
-* [Prerequisites](https://github.com/BennyThePythonCoder/VSCode-Raspberry-Pi/blob/master/README.md#prerequisites)
-* [Installation](https://github.com/BennyThePythonCoder/VSCode-Raspberry-Pi/blob/master/README.md#installation)
-* [Credits](https://github.com/BennyThePythonCoder/VSCode-Raspberry-Pi/blob/master/README.md#credits)
+* [Prerequisites](#prerequisites)
+* [Installation](#installation)
+* [Credits](#credits)
 
 ## Introduction
 This repository installs visual studio code (code-oss) on your Raspberry Pi 3B+ or Raspberry Pi 4 easily.\
