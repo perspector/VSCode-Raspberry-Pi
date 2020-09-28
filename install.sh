@@ -1,5 +1,3 @@
-!/bin/sh
-
 sudo apt-get install curl
 
 curl -s https://packagecloud.io/install/repositories/swift-arm/vscode/script.deb.sh | sudo bash
