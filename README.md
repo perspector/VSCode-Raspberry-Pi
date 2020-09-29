@@ -8,6 +8,7 @@
 
 ## Introduction
 This repository installs visual studio code (code-oss) on your Raspberry Pi 3B+ or Raspberry Pi 4 easily.\
+**_Raspberry Pi 4 with at least 4GB RAM is recommended!!!_**\
 I was tired of doing hours of research and trying out commands to get Visual Studio Code, and have it not work.\
 So, I made this repository which makes everything easier for you!
 
