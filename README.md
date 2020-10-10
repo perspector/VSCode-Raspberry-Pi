@@ -1,6 +1,6 @@
 # VSCode-Raspberry-Pi
 ![A Python program calculating pi in VS Code (code-oss) on Ubuntu on Raspberry Pi 4](./Screenshot.png)
-A nice Python program to calculate pi, written using code-oss on Rasberry Pi 4.
+_above: A nice Python program to calculate pi, written using code-oss on Rasberry Pi 4._
 ## Table of Contents
 * [Introduction](#introduction)
 * [Prerequisites](#prerequisites)
