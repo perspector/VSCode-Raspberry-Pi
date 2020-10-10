@@ -28,6 +28,7 @@ All you have to do to install code-oss is to:
 6. To run VSCode, just type `code-oss` in your terminal or find "Code-OSS" in your application menu.
 
 ## Credits
+#### Many thanks to:
 * https://github.com/futurejones/code-oss-aarch64
 * https://packagecloud.io/swift-arm/vscode
 * https://code.headmelted.com/
