@@ -1,6 +1,7 @@
 sudo apt-get install curl
 
 curl -s https://packagecloud.io/install/repositories/swift-arm/vscode/script.deb.sh | sudo bash
+sudo apt-get update
 sudo apt-get install code-oss
 
 sudo echo -e '# My aliases\nalias code="code-oss"' >> ~/.bashrc
