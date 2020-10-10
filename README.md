@@ -23,7 +23,7 @@ All you have to do to install code-oss is to:
 1. Open your terminal by pressing `Ctrl` + `Alt` + `T`  on your keyboard.
 2. Clone this repository: `git clone https://github.com/BennyThePythonCoder/VSCode-Raspberry-Pi.git`
 3. Open the file directory: `cd VSCode*`
-4. Run the script: `sh install.sh` _Note: It may ask you for your password to run the script._
+4. Run the script: `sh install.sh` _Note: You may be promted to enter your password for the script to work._
 5. Reboot `sudo reboot now`
 6. To run VSCode, just type `code-oss` in your terminal or find "Code-OSS" in your application menu.
 
