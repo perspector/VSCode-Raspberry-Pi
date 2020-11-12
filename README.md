@@ -33,3 +33,5 @@ All you have to do to install code-oss is to:
 * https://github.com/futurejones/code-oss-aarch64
 * https://packagecloud.io/swift-arm/vscode
 * https://www.makeuseof.com/tag/raspberry-pi-code-oss/
+
+### If you like this repository, please star it!
