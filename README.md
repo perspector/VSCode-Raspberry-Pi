@@ -1,5 +1,5 @@
 # VSCode-Raspberry-Pi
-## _Note: You can now download vscode from Microsoft [here](https://code.visualstudio.com/#alt-downloads)._
+## _Note: You can now download vscode from Microsoft [here](https://code.visualstudio.com/#alt-downloads) for Raspberry Pi._
 ![A Python program calculating pi in VS Code (code-oss) on Ubuntu on Raspberry Pi 4](./Screenshot.png)
 _above: A nice Python program to calculate pi, written using code-oss on Rasberry Pi 4. Available [here](https://github.com/BennyThePythonCoder/Python-Pi)_
 ## Table of Contents
